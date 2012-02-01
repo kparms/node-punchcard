@@ -27,4 +27,4 @@ l_____________j
 
 ## So does it actually work yet?
 
-I don't know yet! I'll need to write a decoder first!
+Based on spot checking, it certainly seems to! That said, there's no decoder yet, and that would really be the proof I'd think.
